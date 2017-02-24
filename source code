@@ -1,0 +1,9 @@
+var random;
+
+/*random = Math.random();
+random = random * 9;
+random = Math.floor();
+console.log(random);*/
+
+random = Math.floor(Math.random() *10);
+console.log(random);
